@@ -1,6 +1,6 @@
 # slimslender.core
 
-FIXME: my new application..
+FIXME: my new application...
 
 ## Installation
 
